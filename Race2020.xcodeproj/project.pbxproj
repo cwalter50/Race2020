@@ -14,6 +14,7 @@
 		38283D5C2546FF4A002FCCB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38283D5B2546FF4A002FCCB7 /* Assets.xcassets */; };
 		38283D5F2546FF4A002FCCB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38283D5D2546FF4A002FCCB7 /* LaunchScreen.storyboard */; };
 		38283D692546FF8B002FCCB7 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38283D682546FF8B002FCCB7 /* Car.swift */; };
+		38283D6F2548528F002FCCB7 /* CarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38283D6E2548528F002FCCB7 /* CarImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		38283D5E2546FF4A002FCCB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38283D602546FF4A002FCCB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38283D682546FF8B002FCCB7 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		38283D6E2548528F002FCCB7 /* CarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				38283D542546FF44002FCCB7 /* SceneDelegate.swift */,
 				38283D562546FF44002FCCB7 /* ViewController.swift */,
 				38283D682546FF8B002FCCB7 /* Car.swift */,
+				38283D6E2548528F002FCCB7 /* CarImageView.swift */,
 				38283D582546FF44002FCCB7 /* Main.storyboard */,
 				38283D5B2546FF4A002FCCB7 /* Assets.xcassets */,
 				38283D5D2546FF4A002FCCB7 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				38283D572546FF44002FCCB7 /* ViewController.swift in Sources */,
 				38283D532546FF44002FCCB7 /* AppDelegate.swift in Sources */,
 				38283D692546FF8B002FCCB7 /* Car.swift in Sources */,
+				38283D6F2548528F002FCCB7 /* CarImageView.swift in Sources */,
 				38283D552546FF44002FCCB7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
